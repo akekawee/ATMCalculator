@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMcalculator", "ATMcalculator.csproj", "{EF2C5E6A-261A-4A75-95C6-EF1F3706EEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2C5E6A-261A-4A75-95C6-EF1F3706EEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2C5E6A-261A-4A75-95C6-EF1F3706EEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2C5E6A-261A-4A75-95C6-EF1F3706EEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2C5E6A-261A-4A75-95C6-EF1F3706EEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
