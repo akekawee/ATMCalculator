@@ -32,6 +32,7 @@ namespace ATMcalculator
                     Console.Clear();
                 }
             }
+
             Console.ReadKey();
         }
     }
